@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Cloud Technologies, Microservices Architecture, Azure Services, and Advanced System Design.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nagesh8454](https://github.com/nagesh8454)
+- 👨‍💻 All of my projects are available at [https://github.com/nagesh8454/Profile](https://github.com/nagesh8454/Profile)
 
 - 💬 Ask me about **ASP.NET Core, ASP.NET MVC, Angular, SQL Server, REST APIs, Dapper, Entity Framework, JWT Authentication, VAPT Remediation, IIS Deployment, and Application Security.**
 
 - 📫 How to reach me **v.nagesh101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D2DWQJQuYi3c6QOtnhRujs5uhhFSDSD2/view?usp=sharing](https://drive.google.com/file/d/1D2DWQJQuYi3c6QOtnhRujs5uhhFSDSD2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ynCoTC0FUSxxT4t9AXbkrEJrnpgvr_BT/view?usp=sharing](https://drive.google.com/file/d/1ynCoTC0FUSxxT4t9AXbkrEJrnpgvr_BT/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy solving complex business problems through software development and continuously learning new technologies.**
 
