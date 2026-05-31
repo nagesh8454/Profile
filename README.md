@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nagesh Bankelal Vishwakarma</h1>
 <h3 align="center">Senior Full Stack Developer | ASP.NET Core | Angular | SQL Server | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh8454&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh8454" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nagesh8454&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh8454" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagesh8454" alt="nagesh8454" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagesh8454" alt="nagesh8454" /></a> </p>
 
 - 🔭 I’m currently working on **Enterprise Web Applications, Document Management Systems (DMS), CRM Solutions, and SAP Integrated Applications using ASP.NET Core and Angular.**
 
